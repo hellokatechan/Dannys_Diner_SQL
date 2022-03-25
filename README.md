@@ -1,5 +1,5 @@
 # Danny's Diner 
-##[This is part of the 8 Week SQL Challenge from Data with Danny.](https://8weeksqlchallenge.com/case-study-1/)
+[This is part of the 8 Week SQL Challenge from Data with Danny.](https://8weeksqlchallenge.com/case-study-1/)
 ## 📌 Overview
 ### Business needs 
 The restaurant industry is ultra competitive, Danny, from Danny's Diner wish to leverage the data he has on hand to gain insights about his customer behavior. 
